@@ -13,7 +13,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "apollo-server-express": "^2.9.16",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.7",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
